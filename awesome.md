@@ -12,3 +12,4 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 ![Bali Awesomeness]({{site.baseurl}}/img/DSC05540.JPG)
 
 ![]({{site.baseurl}}//DSC05542.JPG)
+![en.png]({{site.baseurl}}/img/en.png)
